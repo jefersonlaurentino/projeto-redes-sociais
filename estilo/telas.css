@@ -17,7 +17,7 @@ body {
 }
 
 div#note {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     position: sticky;
     height: 21px;
     width: 70px;
