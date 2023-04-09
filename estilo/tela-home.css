@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    display: flex;
+}
+
+div#celular {
+    position: absolute;
+}
+
+div#note {
+    background-color: rgb(0, 0, 0);
+    height: 22PX;
+    width: 70px;
+    margin: 7PX 0px 0px 76px;
+    border-radius: 20px;
+    
+}
+
+div#camera {
+    background-color: rgba(164, 194, 198, 0.236);
+    height: 15px;
+    margin-top: -18.5px;
+    width: 15px;
+    margin-left: 127px;
+    border-radius: 50%;
+}
+
+div#barra {
+    margin-top: 445PX;
+    background-color: white;
+    height: 4PX;
+    width: 140PX;
+    margin-left: 45PX;
+    border-radius: 20PX;
+}
+
+img {
+    width: 221px;
+    height: 480px;
+}
